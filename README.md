@@ -1,6 +1,6 @@
 # Outbound Draft Gate
 
-**Live Demo:** [Will be added after Vercel deployment]
+**Live Demo:** https://outbound-draft-gate.vercel.app
 
 A Vercel-branded demo web app for enterprise sales teams. Score every LinkedIn note, email, and CRM message before you send it. Catch tone issues, unsupported claims, and bad timing while it's still a draft.
 

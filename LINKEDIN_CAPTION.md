@@ -10,7 +10,7 @@ Nothing auto-sends. You always click send. But now you know it passed the gate f
 
 Built on Vercel AI Gateway with Jev-style evaluate pattern. Policy defined in code, not arbitrary AI vibes.
 
-Try the demo: [Live URL]
+Try the demo: https://outbound-draft-gate.vercel.app
 
 Built for enterprise sales teams at 500+ employee companies. From personal sales desk to org-wide agent policy enforcement.
 
@@ -26,6 +26,6 @@ Draft Gate scores every outbound draft before it leaves your desk. Wrong tone, w
 
 Nothing auto-sends. You always click send. Built for enterprise sales teams.
 
-Try it: [Live URL]
+Try it: https://outbound-draft-gate.vercel.app
 
 #Sales #SalesOps #EnterpriseAI
